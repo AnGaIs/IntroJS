@@ -1,5 +1,9 @@
 # IntroJS
 Pequena introdução aplicando recursos Js e Css.
 
-![](D:\GitHub\IntroJS\src\intro.gif)
+
+
+<img src="[IntroJS/intro.gif at main · AnGaIs/IntroJS (github.com)](https://github.com/AnGaIs/IntroJS/blob/main/src/intro.gif)" width="900" alt="IntroJS"/>
+
+
 
