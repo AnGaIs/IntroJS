@@ -1,2 +1,5 @@
 # IntroJS
-Programação para internet com JavaScript
+Pequena introdução aplicando recursos Js e Css.
+
+![](D:\GitHub\IntroJS\src\intro.gif)
+
